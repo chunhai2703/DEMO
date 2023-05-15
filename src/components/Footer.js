@@ -3,7 +3,7 @@ export default class Footer extends Component {
     render() {
         return (
             <div className='footer'>
-                <p>copyright &#169; 2022</p>
+                <span>copyright &#169; 2022</span>
                 </div>
         )
     }
