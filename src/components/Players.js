@@ -1,5 +1,6 @@
 import React from 'react'
 import { players } from '../shared/ListOfPlayers'
+
 export default function Players() {
   
     return (
